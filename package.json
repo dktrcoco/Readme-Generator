@@ -1,14 +1,22 @@
 {
-  "name": "mini-project",
+  "name": "readme",
   "version": "1.0.0",
-  "description": "",
+  "description": "readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Chris Kabana",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "Readme-Generator"
+  },
+  "keywords": [
+    "readme"
+  ]
 }
